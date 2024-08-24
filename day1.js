@@ -1,0 +1,21 @@
+// let a= 10;
+// console.log(a);
+// let c= 50;
+// let b= 5;
+// let result= c/b;
+// console.log(result);
+// multiplication////
+let y= 50;
+let z= 5;
+let reslt= y*z;
+console.log(reslt);
+let x= "we are learning java script";
+console.log(x, typeof x);
+console.log(x.length);
+let age= 17;
+console.log(` ali is ${age} years old`);
+let a= 10;
+let b= 20;
+console.log(a>b || a<b);
+console.log(a<b && a>b);
+console.log(a<b == a>b);
